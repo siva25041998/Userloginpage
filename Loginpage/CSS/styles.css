@@ -1,0 +1,338 @@
+<style id="applicationStylesheet" type="text/css">
+	.mediaViewInfo {
+		--web-view-name: Log in ;
+		--web-view-id: Log_in_;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Log_in_;
+	}
+	* {
+		margin: 0%;
+		padding: 0.2%;
+		box-sizing: border-box;
+		border-radius: 0.4%;
+		border: none;
+	}
+	#Log_in_ {
+		color: #1778F2 ;
+		position: absolute;
+		width: 100%;
+		height: 140%;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Log in ;
+		--web-view-id: Log_in_;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_1 {
+		fill: #1778F2;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 579px;
+		height: 860px;
+
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_2 {
+		filter: drop-shadow(-20.2px 20.2px 70px rgba(0, 0, 0, 0.31));
+		position: absolute;
+		overflow: visible;
+		width: 1439px;
+		height: 865px;
+		border-radius: 4%;
+		left: 156px;
+		top: 118px;
+	}
+	#Rectangle_3 {
+		fill: #1778F2;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 423px;
+		height: 655px;
+		left: 156px;
+		border-radius: 4%;
+		top: 118px;
+	}
+	#TEACHING_MENS_FASHION_TAMIL {
+		left: 171px;
+		top: 404px;
+		position: absolute;
+		overflow: visible;
+		width: 396px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,1);
+	}
+	#TEACHING_MENS_FASHION_TAMIL:hover{
+		transform: scale(1.01);
+	}
+	#Doing_wright_thing__tends_to_D {
+		left: 171px;
+		top: 460px;
+		position: absolute;
+		overflow: visible;
+		width: 394px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 33px;
+		color: rgba(0,0,0,1);
+	}
+	#_-Sivakumar {
+
+		left: 409px;
+		top: 674px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 27px;
+		color: black;
+	}
+	._-Sivakumar{
+		text-decoration:none;
+		text-decoration-line: none;
+	}
+	a{
+		text-decoration: none;
+		color: black;
+	}
+	#Need_help_ {
+		color: #1778F2;
+		left: 1270px;
+		top: 128px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		
+	}
+	#Rectangle_5 {
+		fill: transparent;
+		stroke: rgba(191,191,191,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		border-radius: 4%;
+		position: absolute;
+		overflow: visible;
+		width: 500px;
+		height: 75px;
+		left: 0px;
+		top: 510px;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 10.52%;
+		height: 483px;
+		left: 749px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Log_in {
+		color: #1778F2;
+		left: 165px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 52px;
+		
+	}
+	#Email {
+		left: 11px;
+		top: 87px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(0,0,0,1);
+	}
+	#Rectangle_4 {
+		fill: transparent;
+		stroke: rgba(191,191,191,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 505px;
+		border-radius: 4%;
+		height: 79px;
+		left:0px;
+		top: 512px;
+	}
+	#Password {
+		left: 14px;
+		top: 240px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Rectangle_6 {
+		fill: rgba(24,223,174,1);
+	}
+	.Rectangle_6 {
+		fill:transparent;
+		position: absolute;
+		overflow: visible;
+		width: 240px;
+		height: 59px;
+		left: 121px;
+		top: 382px;
+	}
+	#Log_in_u {
+		left: 117px;
+		top: 382px;
+		position: absolute;
+		overflow: visible;
+		width: 245px;
+		height: 59px;
+		white-space: nowrap;
+		border-radius: 2% 2% 2% 2%;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		background-color:  #1778F2 ;
+    
+  }
+    #Log_in_u:hover{
+    	transform: scale(1.01);
+    	
+    	 filter: drop-shadow(-2.2px 2.2px 20px rgba(0, 0, 0, 0.3));
+    }
+	#Forget_Password_ {
+		left: 291px;
+		top: 459px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(0,0,0,1);
+	}
+	#Enter_Your_Email_id {
+		color: black;
+		left: 0px;
+		top: 128px;
+		position: absolute;
+		overflow: visible;
+		width: 500px;
+		height: 75px;
+		border-color:  rgba(24,223,174,1);
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 30px;
+		
+	}
+	#Enter_Your_Password {
+		color: black;
+		left: 0;
+		top:278px;
+		width: 500px;
+		height: 75px;
+		position: absolute;
+		overflow: visible;
+		white-space: nowrap;
+		text-align: center;
+		border-color:  rgba(24,223,174,1);
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 30px;
+		
+	}
+	
+	#TMFTL{
+		position: absolute;
+		width: 137px;
+		height: 137px;
+		left: 150px;
+		top: 120px;
+		
+		box-shadow: #7B7B7B ;
+		overflow: visible;
+	}
+
+	#TMFTL:hover {
+       transform: scale(1.01);
+       filter: drop-shadow(-20.2px 20.2px 70px rgba(0, 0, 0, 0.11));
+       left: 148px;
+		top: 118px;
+
+	}
+    #_-Sivakumar:hover{
+    	transform: scale(1.05);
+        filter: drop-shadow(-20.2px 20.2px 70px rgba(0, 0, 0, 0.11));
+    }
+	/*
+	#logo{
+		position: absolute;
+		width: 137px;
+		height: 137px;
+		left: 300px;
+		top: 229px;
+		overflow: visible;
+	}*/
+</style>
